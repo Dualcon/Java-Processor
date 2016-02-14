@@ -1,10 +1,3 @@
-# Processors
-Java - Get number of processors.
-
-
-## App.java
-
-
 package com.wikidreams.processors;
 
 public class App {
@@ -15,6 +8,3 @@ public class App {
 	}
 
 }
-
-
-Produced by [Wiki Dreams.github.io](https://WikiDreams.github.io/).
